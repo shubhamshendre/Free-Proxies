@@ -1,5 +1,5 @@
 # 🌐 Free Public Proxies (SOCKS5, SOCKS4, HTTP)
-
+## Want access to more premium and advanced tools? Join our [discord!](https://discord.gg/2RyM28f3EC)
 
 ## ✅ What's Included
 - **SOCKS5 Proxies** - High anonymity, supports TCP/UDP
@@ -54,3 +54,6 @@
 
 **This project is maintained by Vestige Group. Stars keep it alive!**  
 ➡️ ★ Star This Repository ⬅️
+
+## Join the discord!
+> Get access to premium proxies and daily updates!: https://discord.gg/2RyM28f3EC

